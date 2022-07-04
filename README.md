@@ -2,6 +2,8 @@
 
 *SpaFHy version for gridded simulation of forests and peatlands*
 
+This is Samuli's playground towards next-generation SpaFHy
+
  - Canopy and bucket mostly as in SpaFHy v1
  - Option for physically-based 2D groundwater flow and groundwater storage
  - Option for TOPMODEL as in SpaFHy v1
